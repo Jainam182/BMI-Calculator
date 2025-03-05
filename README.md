@@ -52,6 +52,8 @@ flutter pub get
    flutter pub get
    flutter run
    ```
+## 📥 Download BMI Calculator APK
+[⬇ Click here to download the latest version](https://github.com/Jainam182/BMI-Calculator/releases/download/v1.0/bmi_calculator.apk)
 
 ## Notes
 - The app is optimized for real-time updates and smooth UI interaction.
